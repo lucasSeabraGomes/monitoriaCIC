@@ -36,7 +36,7 @@ Testes cucumber e respec para todas as novas features-3 pontos
 
  - Scrum Master - Victor Pacheco
 
- - Product Owner - Lucas Seabra
+ - Product Owner - Theo Henrique Gallo
 
  - Equipe de desenvolvimento - Todos
 
