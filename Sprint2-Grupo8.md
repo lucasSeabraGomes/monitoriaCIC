@@ -27,8 +27,11 @@ pt.2 (alocação das monitorias voluntárias e revisão do resultado da alocaç�
 ## Implementações Sprint 2
 
 Revisão de vagas de monitoria pelo administrador -3 pontos
+
 Separação das vagas de monitoria entre remuneradas e voluntárias pelo administrador -2 pontos
+
 Alocação automatica de vagas voluntárias para monitoria -1 ponto
+
 Testes cucumber e respec para todas as novas features -3 pontos
 
 
