@@ -22,19 +22,19 @@ Alocação das vagas de monitoria.
 pt.2 (alocação das monitorias voluntárias e revisão do resultado da alocação de voluntárias)
 
 
-##Pontos planejados para esta sprint
+## Pontos planejados para esta sprint:
 9
 ## Implementações Sprint 2
 
-Revisão de vagas de monitoria pelo administrador-3 pontos
-Separação das vagas de monitoria entre remuneradas e voluntárias pelo administrador-2 pontos
-Alocação automatica de vagas voluntárias para monitoria-1 pontos
-Testes cucumber e respec para todas as novas features-3 pontos
+Revisão de vagas de monitoria pelo administrador -3 pontos
+Separação das vagas de monitoria entre remuneradas e voluntárias pelo administrador -2 pontos
+Alocação automatica de vagas voluntárias para monitoria -1 ponto
+Testes cucumber e respec para todas as novas features -3 pontos
 
 
 ## Papéis
 
- - Scrum Master - Victor Pacheco
+ - Scrum Master - Victor Rodrigues Pacheco
 
  - Product Owner - Theo Henrique Gallo
 
